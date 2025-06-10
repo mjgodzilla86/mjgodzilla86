@@ -28,6 +28,8 @@
 | `AMPScript` | List of personalised data and dynamic blocks |
 | `Liquid` | List of personalised data and dynamic blocks |
 | `Email Templates` | List of email templates |
+| `Python` | List of python projects |
+| `Go` | List of golang projects |
 
 <br/>
 <br/>
