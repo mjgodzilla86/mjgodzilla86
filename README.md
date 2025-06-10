@@ -36,13 +36,9 @@
 
 ### Platforms
 
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Salesforce Marketing Cloud" width="100px" style="padding-right:10px;" src="images/social-media/sfmc.png"/>
+<img align="left" alt="Braze" width="50px" style="padding-right:10px;" src="images/social-media/braze.png"/>
+<img align="left" alt="Blueshift" width="50px" style="padding-right:10px; padding-top: 10px;" src="images/social-media/blueshift.png"/>
 
 <br/>
 <br/>
@@ -63,6 +59,8 @@
 <br/>
 <br/>
 
+<!---
+
 - 👋 Hi, I’m @mjgodzilla86
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning new technical skills...
@@ -71,7 +69,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 mjgodzilla86/mjgodzilla86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
