@@ -22,6 +22,16 @@
 <br/>
 <br/>
 
+## 🛠 Workshop Projects
+| Project Idea | Description |
+|--------|----------|
+| `AMPScript` | List of personalised data and dynamic blocks |
+| `Liquid` | List of personalised data and dynamic blocks |
+| `Email Templates` | List of email templates |
+
+<br/>
+<br/>
+
 ## 🛠 Tools
 
 ### Platforms
