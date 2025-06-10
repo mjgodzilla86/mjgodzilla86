@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-## 🛠 Workshop Projects
+## 👷‍♂️ Workshop Projects
 | Project Idea | Description |
 |--------|----------|
 | `AMPScript` | List of personalised data and dynamic blocks |
