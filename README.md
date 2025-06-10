@@ -53,6 +53,7 @@
 <img align="left" alt="Scripting" width="70px" style="padding-right:10px;" src="images/social-media/script.png"/>
 <img align="left" alt="Python" width="70px" style="padding-right:10px;" src="images/social-media/python.png"/>
 <img align="left" alt="MySQL" width="70px" style="padding-right:10px;" src="images/social-media/mysql.png"/>
+<img align="left" alt="Golang" width="70px" style="padding-right:10px;" src="images/social-media/golang.png"/>
 
 <br/>
 <br/>
