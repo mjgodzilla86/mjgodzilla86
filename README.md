@@ -4,10 +4,10 @@
 *Building clean templates, dynamic contents, and the occasional side project.*
 
 <a href="https://www.linkedin.com/in/mustafajung/">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="images/social_media/linkedin-logo.png"/>
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="images/social-media/linkedin-logo.png"/>
 </a>
 <a href="https://github.com/mjgodzilla86">
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="Images/Social_Icons/github-logo.png"/>
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="images/social-media/github-logo.png"/>
 </a>
 
 <br/>
