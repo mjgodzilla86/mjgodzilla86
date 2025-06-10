@@ -38,7 +38,7 @@
 
 <img align="left" alt="Salesforce Marketing Cloud" width="100px" style="padding-right:10px;" src="images/social-media/sfmc.png"/>
 <img align="left" alt="Braze" width="50px" style="padding-right:10px;" src="images/social-media/braze.png"/>
-<img align="left" alt="Blueshift" width="50px" style="padding-right:10px; padding-top: 10px;" src="images/social-media/blueshift.png"/>
+<img align="left" alt="Blueshift" width="50px" style="padding-right:10px;padding-top:10px;" src="images/social-media/blueshift.png"/>
 
 <br/>
 <br/>
