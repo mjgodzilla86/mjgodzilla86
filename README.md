@@ -1,4 +1,4 @@
-## ⚡ MJ Makes
+## 🦖 MJ - What I do
 
 **CRM & Email Developer**  
 *Building clean templates, dynamic contents, and the occasional side project.*
