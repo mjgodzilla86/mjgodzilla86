@@ -46,10 +46,10 @@
 
 ### Platforms
   
-<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="" src="images/social-media/sfmc.png"/>
-<img align="left" alt="Braze" width="15%" style="" src="images/social-media/braze.png"/>
-<img align="left" alt="Blueshift" width="15%" style="" src="images/social-media/blueshift.png"/>
-<img align="left" alt="Litmus" width="15%" style="" src="images/social-media/litmus.png"/> 
+<img align="left" alt="Salesforce Marketing Cloud" width="12%" style="" src="images/social-media/sfmc.png"/>
+<img align="left" alt="Braze" width="12%" style="" src="images/social-media/braze.png"/>
+<img align="left" alt="Blueshift" width="12%" style="" src="images/social-media/blueshift.png"/>
+<img align="left" alt="Litmus" width="12%" style="" src="images/social-media/litmus.png"/> 
 
 <br/>
 <br/>
