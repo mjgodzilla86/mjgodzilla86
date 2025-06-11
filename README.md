@@ -66,7 +66,7 @@
 
 ### Programming Languages
 
-<img align="left" alt="HTML" width="50px" style="" src="images/social-media/html.png"/>
+<img align="left" alt="HTML" width="60px" style="" src="images/social-media/html.png"/>
 <img align="left" alt="CSS" width="50px" style="" src="images/social-media/css.png"/>
 <img align="left" alt="Javascript" width="50px" style="" src="images/social-media/javascript.png"/>
 <img align="left" alt="Scripting" width="50px" style="" src="images/social-media/script.png"/>
