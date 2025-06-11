@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-
-<html>
-  <head>
-   <link rel="stylesheet" type="text/css" href="https://github.com/mjgodzilla86/mjgodzilla86/blob/main/style.css">
-  </head>
-    <body>
-      ## 🦖 MJ - What I do
+ ## 🦖 MJ - What I do
 
 **Technical CRM & Email Developer**  
 *Building clean templates, dynamic contents, and the occasional side project.*
@@ -103,5 +96,3 @@ mjgodzilla86/mjgodzilla86 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-</body>
-</html>
