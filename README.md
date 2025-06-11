@@ -46,7 +46,7 @@
 <img align="left" alt="Blueshift" width="100px" style="padding-right:10px;" src="images/social-media/blueshift.png"/>
 <img align="left" alt="Litmus" width="100px" style="padding-right:10px;" src="images/social-media/litmus.png"/> 
 
-</p>
+
 
 <br/>
 <br/>
