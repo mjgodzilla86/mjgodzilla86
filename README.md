@@ -36,7 +36,6 @@
 
 ## 🛠 Tools  
 
-
 ### Platforms
   
 <img align="left" alt="Salesforce Marketing Cloud" width="50px" style="" src="images/social-media/sfmc.png"/>
@@ -53,7 +52,6 @@
 
 <img align="left" alt="VS Code" width="50px" style="" src="images/social-media/vscode.png"/>
 <img align="left" alt="ATOM" width="50px" style="" src="images/social-media/atom.png"/>
-<img align="left" alt="Sublime Text" width="50px" style="" src="images/social-media/sublimetext.png"/>
 <img align="left" alt="Dreamweaver" width="50px" style="" src="images/social-media/dreamweaver.png"/>
 <img align="left" alt="Photoshop" width="50px" style="" src="images/social-media/photoshop.png"/>
 <img align="left" alt="Figma" width="50px" style="" src="images/social-media/figma.png"/>
@@ -63,7 +61,7 @@
 <br/>
 <br/>
 <br/>  
-  
+
 ### Programming Languages
 
 <img align="left" alt="HTML" width="50px" style="" src="images/social-media/html.png"/>
@@ -78,6 +76,7 @@
 <br/>
 <br/>
 <br/>
+
 
 
 
