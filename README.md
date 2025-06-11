@@ -39,10 +39,10 @@
 
 ### Platforms
   
-<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="padding-right:10px;" src="images/social-media/sfmc.png"/>
-<img align="left" alt="Braze" width="15%" style="padding-right:10px;" src="images/social-media/braze.png"/>
-<img align="left" alt="Blueshift" width="15%" style="padding-right:10px;" src="images/social-media/blueshift.png"/>
-<img align="left" alt="Litmus" width="15%" style="padding-right:10px;" src="images/social-media/litmus.png"/> 
+<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="padding-right:10px; max-width: 100px;" src="images/social-media/sfmc.png"/>
+<img align="left" alt="Braze" width="15%" style="padding-right:10px;max-width: 100px;" src="images/social-media/braze.png"/>
+<img align="left" alt="Blueshift" width="15%" style="padding-right:10px;max-width: 100px;" src="images/social-media/blueshift.png"/>
+<img align="left" alt="Litmus" width="15%" style="padding-right:10px;max-width: 100px;" src="images/social-media/litmus.png"/> 
 
 <br/>
 <br/>
@@ -51,13 +51,13 @@
   
 ### Applications
 
-<img align="left" alt="VS Code" width="12%" style="padding-right:10px;" src="images/social-media/vscode.png"/>
-<img align="left" alt="ATOM" width="12%" style="padding-right:100px;" src="images/social-media/atom.png"/>
-<img align="left" alt="Sublime Text" width="12%" style="padding-right:10px;" src="images/social-media/sublimetext.png"/>
-<img align="left" alt="Dreamweaver" width="12%" style="padding-right:10px;" src="images/social-media/dreamweaver.png"/>
-<img align="left" alt="Photoshop" width="12%" style="padding-right:10px;" src="images/social-media/photoshop.png"/>
-<img align="left" alt="Figma" width="12%" style="padding-right:10px;" src="images/social-media/figma.png"/>
-<img align="left" alt="Command Prompt" width="12%" style="padding-right:10px;" src="images/social-media/commandprompt.png"/>  
+<img align="left" alt="VS Code" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/vscode.png"/>
+<img align="left" alt="ATOM" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/atom.png"/>
+<img align="left" alt="Sublime Text" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/sublimetext.png"/>
+<img align="left" alt="Dreamweaver" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/dreamweaver.png"/>
+<img align="left" alt="Photoshop" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/photoshop.png"/>
+<img align="left" alt="Figma" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/figma.png"/>
+<img align="left" alt="Command Prompt" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/commandprompt.png"/>  
 
 <br/>
 <br/>
