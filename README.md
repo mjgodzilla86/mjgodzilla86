@@ -55,7 +55,7 @@
 <br/>
 <br/>
 <br/>  
-  
+
 ### Applications
 
 <img align="left" alt="VS Code" width="50px" style="" src="images/social-media/vscode.png"/>
