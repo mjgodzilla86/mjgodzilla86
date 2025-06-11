@@ -1,4 +1,4 @@
-.mob-img {
-  max-width: 200px;
+.markdown-body img {
+  max-width: 200px!important;
   padding-right: 50px;
 }
