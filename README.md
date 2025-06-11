@@ -34,7 +34,8 @@
 <br/>
 <br/>
 
-## 🛠 Tools
+## 🛠 Tools  
+
 
 ### Platforms
   
@@ -46,8 +47,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
+<br/>  
+  
 ### Applications
 
 <img align="left" alt="VS Code" width="70px" style="padding-right:10px;" src="images/social-media/vscode.png"/>
@@ -61,8 +62,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
+<br/>  
+  
 ### Programming Languages
 
 <img align="left" alt="HTML" width="70px" style="padding-right:10px;" src="images/social-media/html.png"/>
