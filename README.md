@@ -39,10 +39,10 @@
 
 ### Platforms
   
-<img align="left" alt="Salesforce Marketing Cloud" width="100px" style="padding-right:10px;" src="images/social-media/sfmc.png"/>
-<img align="left" alt="Braze" width="100px" style="padding-right:100px;" src="images/social-media/braze.png"/>
-<img align="left" alt="Blueshift" width="100px" style="padding-right:10px;" src="images/social-media/blueshift.png"/>
-<img align="left" alt="Litmus" width="100px" style="padding-right:10px;" src="images/social-media/litmus.png"/> 
+<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="padding-right:10px;" src="images/social-media/sfmc.png"/>
+<img align="left" alt="Braze" width="15%" style="padding-right:10px;" src="images/social-media/braze.png"/>
+<img align="left" alt="Blueshift" width="15%" style="padding-right:10px;" src="images/social-media/blueshift.png"/>
+<img align="left" alt="Litmus" width="15%" style="padding-right:10px;" src="images/social-media/litmus.png"/> 
 
 <br/>
 <br/>
@@ -78,6 +78,8 @@
 <br/>
 <br/>
 <br/>
+
+
 
 <!---
 
