@@ -46,10 +46,10 @@
 
 ### Platforms
   
-<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="max-width: 100px" src="images/social-media/sfmc.png"/>
+<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="" src="images/social-media/sfmc.png"/>
 <img align="left" alt="Braze" width="15%" style="" src="images/social-media/braze.png"/>
-<img align="left" alt="Blueshift" width="15%" style="padding-right:10px;" src="images/social-media/blueshift.png"/>
-<img align="left" alt="Litmus" width="15%" style="padding-right:10px;max-width:100px;" src="images/social-media/litmus.png"/> 
+<img align="left" alt="Blueshift" width="15%" style="" src="images/social-media/blueshift.png"/>
+<img align="left" alt="Litmus" width="15%" style="" src="images/social-media/litmus.png"/> 
 
 <br/>
 <br/>
@@ -61,10 +61,10 @@
 <img class="mob-img" align="left" alt="VS Code" width="12%" style="" src="images/social-media/vscode.png"/>
 <img align="left" alt="ATOM" width="12%" style="" src="images/social-media/atom.png"/>
 <img align="left" alt="Sublime Text" width="12%" style="" src="images/social-media/sublimetext.png"/>
-<img align="left" alt="Dreamweaver" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/dreamweaver.png"/>
-<img align="left" alt="Photoshop" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/photoshop.png"/>
-<img align="left" alt="Figma" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/figma.png"/>
-<img align="left" alt="Command Prompt" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/commandprompt.png"/>  
+<img align="left" alt="Dreamweaver" width="12%" style="" src="images/social-media/dreamweaver.png"/>
+<img align="left" alt="Photoshop" width="12%" style="" src="images/social-media/photoshop.png"/>
+<img align="left" alt="Figma" width="12%" style="" src="images/social-media/figma.png"/>
+<img align="left" alt="Command Prompt" width="12%" style="" src="images/social-media/commandprompt.png"/>  
 
 <br/>
 <br/>
@@ -73,13 +73,13 @@
   
 ### Programming Languages
 
-<img align="left" alt="HTML" width="70px" style="padding-right:10px;" src="images/social-media/html.png"/>
-<img align="left" alt="CSS" width="70px" style="padding-right:10px;" src="images/social-media/css.png"/>
-<img align="left" alt="Javascript" width="70px" style="padding-right:10px;" src="images/social-media/javascript.png"/>
-<img align="left" alt="Scripting" width="70px" style="padding-right:10px;" src="images/social-media/script.png"/>
-<img align="left" alt="Python" width="70px" style="padding-right:10px;" src="images/social-media/python.png"/>
-<img align="left" alt="MySQL" width="70px" style="padding-right:10px;" src="images/social-media/mysql.png"/>
-<img align="left" alt="Golang" width="70px" style="padding-right:10px;" src="images/social-media/golang.png"/>
+<img align="left" alt="HTML" width="12%" style="" src="images/social-media/html.png"/>
+<img align="left" alt="CSS" width="12%" style="" src="images/social-media/css.png"/>
+<img align="left" alt="Javascript" width="12%" style="" src="images/social-media/javascript.png"/>
+<img align="left" alt="Scripting" width="12%" style="" src="images/social-media/script.png"/>
+<img align="left" alt="Python" width="12%" style="" src="images/social-media/python.png"/>
+<img align="left" alt="MySQL" width="12%" style="" src="images/social-media/mysql.png"/>
+<img align="left" alt="Golang" width="12%" style="" src="images/social-media/golang.png"/>
 
 <br/>
 <br/>
