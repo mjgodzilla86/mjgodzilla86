@@ -67,12 +67,12 @@
 ### Programming Languages
 
 <img align="left" alt="HTML" width="60px" style="" src="images/social-media/html.png"/>
-<img align="left" alt="CSS" width="50px" style="" src="images/social-media/css.png"/>
-<img align="left" alt="Javascript" width="50px" style="" src="images/social-media/javascript.png"/>
-<img align="left" alt="Scripting" width="50px" style="" src="images/social-media/script.png"/>
-<img align="left" alt="Python" width="50px" style="" src="images/social-media/python.png"/>
-<img align="left" alt="MySQL" width="50px" style="" src="images/social-media/mysql.png"/>
-<img align="left" alt="Golang" width="50px" style="" src="images/social-media/golang.png"/>  
+<img align="left" alt="CSS" width="60px" style="" src="images/social-media/css.png"/>
+<img align="left" alt="Javascript" width="60px" style="" src="images/social-media/javascript.png"/>
+<img align="left" alt="Scripting" width="60px" style="" src="images/social-media/script.png"/>
+<img align="left" alt="Python" width="60px" style="" src="images/social-media/python.png"/>
+<img align="left" alt="MySQL" width="60px" style="" src="images/social-media/mysql.png"/>
+<img align="left" alt="Golang" width="60px" style="" src="images/social-media/golang.png"/>  
 
 <br/>
 <br/>
