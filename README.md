@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/mjgodzilla86/mjgodzilla86/blob/main/style.css">
 <html>
   <head>
     <link type="text/css" rel="stylesheet" href="style.css" />
