@@ -1,4 +1,11 @@
-## 🦖 MJ - What I do
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css">
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css" />
+  </head>
+    <body>
+      ## 🦖 MJ - What I do
 
 **Technical CRM & Email Developer**  
 *Building clean templates, dynamic contents, and the occasional side project.*
@@ -39,10 +46,10 @@
 
 ### Platforms
   
-<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="padding-right:10px; max-width: 100px;" src="images/social-media/sfmc.png"/>
-<img align="left" alt="Braze" width="15%" style="padding-right:10px;max-width: 100px;" src="images/social-media/braze.png"/>
-<img align="left" alt="Blueshift" width="15%" style="padding-right:10px;max-width: 100px;" src="images/social-media/blueshift.png"/>
-<img align="left" alt="Litmus" width="15%" style="padding-right:10px;max-width: 100px;" src="images/social-media/litmus.png"/> 
+<img align="left" alt="Salesforce Marketing Cloud" width="15%" style="padding-right:10px; max-width:100px;" src="images/social-media/sfmc.png"/>
+<img align="left" alt="Braze" width="15%" style="padding-right:10px;max-width:100px;" src="images/social-media/braze.png"/>
+<img align="left" alt="Blueshift" width="15%" style="padding-right:10px;max-width:100px;" src="images/social-media/blueshift.png"/>
+<img align="left" alt="Litmus" width="15%" style="padding-right:10px;max-width:100px;" src="images/social-media/litmus.png"/> 
 
 <br/>
 <br/>
@@ -51,13 +58,13 @@
   
 ### Applications
 
-<img align="left" alt="VS Code" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/vscode.png"/>
-<img align="left" alt="ATOM" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/atom.png"/>
-<img align="left" alt="Sublime Text" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/sublimetext.png"/>
-<img align="left" alt="Dreamweaver" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/dreamweaver.png"/>
-<img align="left" alt="Photoshop" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/photoshop.png"/>
-<img align="left" alt="Figma" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/figma.png"/>
-<img align="left" alt="Command Prompt" width="12%" style="padding-right:10px; max-width: 70px;" src="images/social-media/commandprompt.png"/>  
+<img class="mob-img" align="left" alt="VS Code" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/vscode.png"/>
+<img align="left" alt="ATOM" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/atom.png"/>
+<img align="left" alt="Sublime Text" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/sublimetext.png"/>
+<img align="left" alt="Dreamweaver" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/dreamweaver.png"/>
+<img align="left" alt="Photoshop" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/photoshop.png"/>
+<img align="left" alt="Figma" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/figma.png"/>
+<img align="left" alt="Command Prompt" width="12%" style="padding-right:10px; max-width:70px;" src="images/social-media/commandprompt.png"/>  
 
 <br/>
 <br/>
@@ -95,3 +102,6 @@
 mjgodzilla86/mjgodzilla86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+</body>
+</html>
