@@ -43,8 +43,10 @@
 <img align="left" alt="Blueshift" width="100px" style="padding-right:10px;" src="images/social-media/blueshift.png"/>
 <img align="left" alt="Litmus" width="100px" style="padding-right:10px;" src="images/social-media/litmus.png"/>  
 
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Applications
 
