@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://github.com/mjgodzilla86/mjgodzilla86/blob/main/style.css">
+
 <html>
   <head>
-    <link type="text/css" rel="stylesheet" href="style.css" />
+   <link rel="stylesheet" type="text/css" href="https://github.com/mjgodzilla86/mjgodzilla86/blob/main/style.css">
   </head>
     <body>
       ## 🦖 MJ - What I do
