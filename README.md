@@ -51,13 +51,13 @@
   
 ### Applications
 
-<img align="left" alt="VS Code" width="70px" style="padding-right:10px;" src="images/social-media/vscode.png"/>
-<img align="left" alt="ATOM" width="70px" style="padding-right:100px;" src="images/social-media/atom.png"/>
-<img align="left" alt="Sublime Text" width="70px" style="padding-right:10px;" src="images/social-media/sublimetext.png"/>
-<img align="left" alt="Dreamweaver" width="70px" style="padding-right:10px;" src="images/social-media/dreamweaver.png"/>
-<img align="left" alt="Photoshop" width="70px" style="padding-right:10px;" src="images/social-media/photoshop.png"/>
-<img align="left" alt="Figma" width="70px" style="padding-right:10px;" src="images/social-media/figma.png"/>
-<img align="left" alt="Command Prompt" width="70px" style="padding-right:10px;" src="images/social-media/commandprompt.png"/>  
+<img align="left" alt="VS Code" width="12%" style="padding-right:10px;" src="images/social-media/vscode.png"/>
+<img align="left" alt="ATOM" width="12%" style="padding-right:100px;" src="images/social-media/atom.png"/>
+<img align="left" alt="Sublime Text" width="12%" style="padding-right:10px;" src="images/social-media/sublimetext.png"/>
+<img align="left" alt="Dreamweaver" width="12%" style="padding-right:10px;" src="images/social-media/dreamweaver.png"/>
+<img align="left" alt="Photoshop" width="12%" style="padding-right:10px;" src="images/social-media/photoshop.png"/>
+<img align="left" alt="Figma" width="12%" style="padding-right:10px;" src="images/social-media/figma.png"/>
+<img align="left" alt="Command Prompt" width="12%" style="padding-right:10px;" src="images/social-media/commandprompt.png"/>  
 
 <br/>
 <br/>
