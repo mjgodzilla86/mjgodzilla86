@@ -34,8 +34,16 @@
 <br/>
 <br/>
 
-## 🛠 Tools  
+## 🛠 Tools 
+| 🛠 Tools  |  |
+|--------|----------|
+| Platforms | <img align="left" alt="Salesforce Marketing Cloud" width="50px" style="" src="images/social-media/sfmc.png"/><img align="left" alt="Braze" width="50px" style="" src="images/social-media/braze.png"/><img align="left" alt="Blueshift" width="50px" style="" src="images/social-media/blueshift.png"/><img align="left" alt="Litmus" width="50px" style="" src="images/social-media/litmus.png"/> |
+| Applications | <img align="left" alt="VS Code" width="50px" style="" src="images/social-media/vscode1.png"/><img align="left" alt="ATOM" width="50px" style="" src="images/social-media/atom1.png"/><img align="left" alt="Dreamweaver" width="50px" style="" src="images/social-media/dreamweaver1.png"/><img align="left" alt="Photoshop" width="50px" style="" src="images/social-media/photoshop1.png"/><img align="left" alt="Figma" width="50px" style="" src="images/social-media/figma1.png"/><img align="left" alt="Command Prompt" width="50px" style="" src="images/social-media/commandprompt1.png"/>   |
+| Programming Languages | <img align="left" alt="HTML" width="60px" style="" src="images/social-media/html.png"/><img align="left" alt="CSS" width="60px" style="" src="images/social-media/css.png"/><img align="left" alt="Javascript" width="60px" style="" src="images/social-media/javascript.png"/><img align="left" alt="Scripting" width="60px" style="" src="images/social-media/script.png"/><img align="left" alt="Python" width="60px" style="" src="images/social-media/python.png"/><img align="left" alt="MySQL" width="60px" style="" src="images/social-media/mysql.png"/><img align="left" alt="Golang" width="60px" style="" src="images/social-media/golang.png"/>  |
 
+
+
+<!---
 ### Platforms
   
 <img align="left" alt="Salesforce Marketing Cloud" width="50px" style="" src="images/social-media/sfmc.png"/>
@@ -78,11 +86,6 @@
 <br/>
 <br/>
 <br/>
-
-
-
-
-<!---
 
 - 👋 Hi, I’m @mjgodzilla86
 - 👀 I’m interested in ...
