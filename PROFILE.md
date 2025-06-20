@@ -34,6 +34,11 @@
 <br/>
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mjgodzilla86&theme=dracula)](https://git.io/streak-stats)
+
+<br/>
+<br/>
+
 ## 🛠 Tools 
 | 🛠 Tools  |  |
 |--------|----------|
