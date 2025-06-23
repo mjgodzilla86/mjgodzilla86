@@ -1,4 +1,6 @@
- ## 🦖 MJ - What I do
+
+
+## 🦖 MJ - What I do
 
 **Technical CRM & Email Developer**  
 *Building clean templates, dynamic contents, and the occasional side project.*
